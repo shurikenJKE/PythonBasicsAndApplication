@@ -65,7 +65,7 @@ Yes
 Yes
 Yes
 No
-""
+"""
 
 # Key creation function
 def create_key(cl, value):
